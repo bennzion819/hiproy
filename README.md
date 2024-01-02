@@ -12,3 +12,4 @@ for i in range(len(movies)):
 json_object = json.dumps(movie_ratings, indent=4)
  
 print(json_object)
+def multiply(
